@@ -1,0 +1,2 @@
+c:\users\orion\documents\visual studio 2013\Projects\Rehash\Rehash\bin\Debug\ServiceConfiguration.cscfg
+c:\users\orion\documents\visual studio 2013\Projects\Rehash\Rehash\bin\Debug\ServiceDefinition.csdef
